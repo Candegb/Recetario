@@ -1,0 +1,110 @@
+h1{
+	color: #c23616;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-align:left;
+	font-size:40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+  text-decoration: underline;
+  font-size: 16px;
+}
+
+body{
+
+font-family: @import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+background-image: url(../img/fondo.jpg);
+}
+
+img{
+ max-width: 100%;
+ max-height: 100%;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ }
+
+.logo{
+   height: 150px;
+   width: 150px;
+}
+
+.trufas{
+   height: 315px;
+   width: 600px;
+   margin: 35px;
+}
+
+.bbanana{
+	height: 500px;
+	width: 666.7px;
+	margin: 20px;
+}
+
+.pan{
+    height: 400px;
+    width: 600px;
+    margin: 20px;
+}
+
+a{
+  text-decoration:none;
+  color:inherit;
+  font-size:18px;
+}
+
+#lista1 li{
+    display:inline-block;
+    width:12%;
+    padding:5px 10px;
+    background-color:#c23616;
+    border:2px solid #c8d6e5;
+    text-align:center;
+    color:#ffffff;
+    margin-left: 25px;
+    }
+
+*{
+margin: 0;
+padding:0;
+}
+
+#contenedor{
+	width: 1200px;
+	height: 1360px;
+	border-width: 2px ;
+	border-style: solid;
+	border-color: #a4b0be;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 35px;
+	padding-right: 10px;
+	background-color: #f1f2f6;
+	text-align: left;
+	line-height: 25px;
+}
+
+#primero{
+	width: 400px;
+	height: 200px;
+	float: right;
+	padding: 10px;
+	margin-top: 40px;
+	list-style:none;
+	line-height: 35px;
+}
+
+#segundo{
+	width: 400px;
+	height: 600px;
+	background-color: #17c0eb;
+	float: left;
+	padding: 10px;
+}
+
+.video{
+	margin-top: 20px;
+}
